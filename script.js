@@ -1,5 +1,5 @@
 // ===== CHANGE THIS TO YOUR APPS SCRIPT URL =====
-const API_URL = "https://script.google.com/macros/d/1_AVY6CTP0oVZEgkzp8euh9ZRagjqZzfP9ZophCHV2QI/usercontent/exec";
+const API_URL = "https://script.google.com/macros/d/AKfycbx3xF/usercontent/exec";
 // Example: https://script.google.com/macros/d/1abc123xyz/usercontent/exec
 
 // ===== Load data when page opens =====
